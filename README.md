@@ -10,16 +10,21 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 ## Election - Audit results:
 ### Number of votes:
 * Total number of votes is 369,711.
-* The following is the number of votes and the proportion of votes of each county
+* The following is the number of votes and the proportion of votes of each county  
+
 | County | Number of votes | % of votes| 
+| ---- | ---- | ---- | 
 | Jefferson | 38,855 | 10.5% |
 | Denver | 306,055 | 82.8% |
 | Arapahoe| 24,801 | 6.7% |
 
+
 ### Winning candidate:
 * The candidate who won the election is **Diana Degette** by winning **73.8%** of total votes.
-* The following is the number of votes and the proportion of votes of each candidate
+* The following is the number of votes and the proportion of votes of each candidate  
+
 | Candidate | Number of votes | % of votes| 
+| ---- | ---- | ---- | 
 | Charles Casper Stockham | 85,213 | 23.0% |
 | Diana DeGette | 272,892 | 73.8% |
 | Raymon Anthony Doane| 11,606 | 3.1% |
