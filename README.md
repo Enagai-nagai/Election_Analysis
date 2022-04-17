@@ -8,9 +8,16 @@ The votes is counted by three following voting methods, Mail-in Ballot, punth ca
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 ## Election - Audit results:
 ### Number of votes:
+<<<<<<< HEAD
 * Total number of votes is 369,711 in this congressional election.
 * The following is the number of votes and the proportion of votes of each county
+=======
+* Total number of votes is 369,711.
+* The following is the number of votes and the proportion of votes of each county  
+
+>>>>>>> 1efd4c3580ca687a08848cb158dd4438b0427822
 | County | Number of votes | % of votes| 
+| ---- | ---- | ---- | 
 | Jefferson | 38,855 | 10.5% |
 | Denver | 306,055 | 82.8% |
 | Arapahoe| 24,801 | 6.7% |
@@ -18,8 +25,10 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 
 ### Winning candidate:
 * The candidate who won the election is **Diana Degette** by winning **73.8%** of total votes.
-* The following is the number of votes and the proportion of votes of each candidate
+* The following is the number of votes and the proportion of votes of each candidate  
+
 | Candidate | Number of votes | % of votes| 
+| ---- | ---- | ---- | 
 | Charles Casper Stockham | 85,213 | 23.0% |
 | Diana DeGette | 272,892 | 73.8% |
 | Raymon Anthony Doane| 11,606 | 3.1% |
