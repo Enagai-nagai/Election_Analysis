@@ -8,14 +8,12 @@ The votes is counted by three following voting methods, Mail-in Ballot, punth ca
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 ## Election - Audit results:
 ### Number of votes:
-<<<<<<< HEAD
-* Total number of votes is 369,711 in this congressional election.
-* The following is the number of votes and the proportion of votes of each county
-=======
+
+
 * Total number of votes is 369,711.
 * The following is the number of votes and the proportion of votes of each county  
 
->>>>>>> 1efd4c3580ca687a08848cb158dd4438b0427822
+
 | County | Number of votes | % of votes| 
 | ---- | ---- | ---- | 
 | Jefferson | 38,855 | 10.5% |
@@ -41,15 +39,14 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 #### Proposal to the election commission
 This script can be used for other elections as well such as senetorial districts and local elections. 
 
-
-# To see the candidate who got the most votes 
-candidate1st = max(candidate_votes, key=candidate_votes.get)
-# To see the candidate who got the second most votes
-candidate2nd = sorted(candidate_votes, key = candidate_votes.get)[-2]
-print(f"The winning candidates are {candidate1st} and {candidate2nd}" )
-
 #### Senatorial districts
 In senatorial elections, 2 senators are elected from each state regardless of its population.
+We can use the following code to get the name of the 2 candidates who got the most votes.
+#To see the candidate who got the most votes 
+candidate1st = max(candidate_votes, key=candidate_votes.get)
+#To see the candidate who got the second most votes
+candidate2nd = sorted(candidate_votes, key = candidate_votes.get)[-2]
+print(f"The winning candidates are {candidate1st} and {candidate2nd}" )
 
 
 How many votes were cast in this congressional election?
