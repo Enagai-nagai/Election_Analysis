@@ -39,19 +39,13 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 #### Proposal to the election commission
 This script can be used for other elections as well such as senetorial districts and local elections. 
 
-#### Senatorial districts
-In senatorial elections, 2 senators are elected from each state regardless of its population.
-We can use the following code to get the name of the 2 candidates who got the most votes.
-#To see the candidate who got the most votes 
-candidate1st = max(candidate_votes, key=candidate_votes.get)
-#To see the candidate who got the second most votes
-candidate2nd = sorted(candidate_votes, key = candidate_votes.get)[-2]
-print(f"The winning candidates are {candidate1st} and {candidate2nd}" )
+#### Presidential Primary election
+In presidential primary elections, 2 candidates are selected from all the candidates running for state constitutional, US Congressional, and state legislative offices.  
+We can use the following code to get the name of the 2 candidates who got the most votes.  
 
+#To see the candidate who got the most votes.  
+candidate1st = max(candidate_votes, key=candidate_votes.get)  
+#To see the candidate who got the second most votes  
+candidate2nd = sorted(candidate_votes, key = candidate_votes.get)[-2]  
+print(f"The winning candidates are {candidate1st} and {candidate2nd}" )  
 
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
