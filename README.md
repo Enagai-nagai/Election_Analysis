@@ -11,6 +11,7 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 
 
 * Total number of votes is 369,711.
+* Denver got the most votes 306,055, which is 82.8% of the total votes.
 * The following is the number of votes and the proportion of votes of each county  
 
 
@@ -30,6 +31,7 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 | Charles Casper Stockham | 85,213 | 23.0% |
 | Diana DeGette | 272,892 | 73.8% |
 | Raymon Anthony Doane| 11,606 | 3.1% |
+
 
 
 ### Election Audit Summary:
